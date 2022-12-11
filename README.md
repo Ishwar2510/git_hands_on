@@ -10,3 +10,5 @@ git stash
 git stash pop
 git stash clear
 git stash drop
+git pull
+git pull origin main
