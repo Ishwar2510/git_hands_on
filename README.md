@@ -7,5 +7,6 @@ git remote add origin linkname
 git push -u origin main
 git diff
 git stash
-git stash popgit stash clear
+git stash pop
+git stash clear
 git stash drop
