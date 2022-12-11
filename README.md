@@ -26,3 +26,4 @@ git log
 git checkout <commithash>
 git revert <commithash>
 git rm <filename>
+git rm -r <foldername>
