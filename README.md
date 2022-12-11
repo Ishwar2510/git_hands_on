@@ -22,3 +22,6 @@ git stash clear
 git stash drop
 git pull
 git pull origin main
+git log
+git checkout <commithash>
+git revert <commithash>
