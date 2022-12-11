@@ -25,3 +25,4 @@ git pull origin main
 git log
 git checkout <commithash>
 git revert <commithash>
+git rm <filename>
