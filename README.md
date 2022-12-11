@@ -29,3 +29,5 @@ git rm <filename>
 git rm -r <foldername>
 git config --global user.name
 git config --gloabl user.email
+git config --global user.name name
+git config --gloabl user.email email
