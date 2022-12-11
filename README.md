@@ -34,3 +34,5 @@ git config --gloabl user.email email
 git fetch
 git status
 git fetch origin main
+git stash clear
+git stash drop
