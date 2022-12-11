@@ -12,3 +12,5 @@ git checkout -b newbranchname
 git branch
 git log
 git checkout branchname
+git branch --delete branchname
+git branch -D branchname
