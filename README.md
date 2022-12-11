@@ -15,3 +15,8 @@ git checkout branchname
 git branch --delete branchname
 git branch -D branchname
 git push origin branchname
+git diff
+git stash
+git stash pop
+git stash clear
+git stash drop
