@@ -27,3 +27,5 @@ git checkout <commithash>
 git revert <commithash>
 git rm <filename>
 git rm -r <foldername>
+git config --global user.name
+git config --gloabl user.email
