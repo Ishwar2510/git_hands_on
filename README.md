@@ -31,3 +31,4 @@ git config --global user.name
 git config --gloabl user.email
 git config --global user.name name
 git config --gloabl user.email email
+git fetch
